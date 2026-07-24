@@ -60,21 +60,6 @@
     "name": "Fufafilm"
   },
   {
-    "iconUrl": "https://funmovieslix.com/wp-content/uploads/2023/12/cropped-download.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 19058,
-    "status": 1,
-    "language": "id",
-    "authors": ["Hexated", "Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
-    "version": 1,
-    "internalName": "Funmovieslix",
-    "description": "📺 Streaming Movie and TV Series",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Funmovieslix.cs3",
-    "name": "Funmovieslix"
-  },
-  {
     "iconUrl": "https://i.ibb.co.com/FqVy2Snb/appicon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://raw.githubusercontent.com/Asm0d3usX",
