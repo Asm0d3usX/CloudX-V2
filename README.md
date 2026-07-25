@@ -13,7 +13,6 @@
 | <img src="https://i.ibb.co.com/SwTXWck9/dutamovie.png" width="16"> Dutamovie | Indonesia | 🔥 Active |
 | <img src="https://i.ibb.co.com/Jjzsxm9F/cropped-lk21-1.png" width="16"> Filmkita | Indonesia | 🔥 Active |
 | <img src="https://i.ibb.co.com/Cs2n4h1v/filmlokal.jpg" width="16"> Filmlokal | Indonesia | 🔥 Active |
-| <img src="https://i.ibb.co.com/DfTs2NjT/appicon.png" width="16"> Idlix | Indonesia | 🔥 Active |
 | <img src="https://i.ibb.co.com/6cCQ1h87/indomax.jpg" width="16"> Indomax | Indonesia | 🔥 Active |
 | <img src="https://i.ibb.co.com/KjQdk4YC/kawanfilm.png" width="16"> Kawanfilm | Indonesia | 🔥 Active |
 | <img src="https://i.ibb.co.com/QF8w02RR/klikxxi.png" width="16"> KlikXXi | Indonesia | 🔥 Active |
