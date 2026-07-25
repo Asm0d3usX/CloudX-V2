@@ -1,13 +1,19 @@
 [
   {
-    "iconUrl": "https://offshorebankservices.com/wp-content/uploads/2022/07/cropped-dutamovie21-512x512-1-60x60.png",
+    "iconUrl": "https://i.ibb.co.com/SwTXWck9/dutamovie.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 27058,
+    "fileSize": 27347,
     "status": 1,
     "language": "id",
-    "authors": ["Hexated", "Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "authors": [
+	  "Hexated",
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "Dutamovie",
     "description": "📺 Streaming Movie and TV Series",
@@ -15,14 +21,19 @@
     "name": "Dutamovie"
   },
   {
-    "iconUrl": "https://caragampangjp.store/wp-content/uploads/2025/08/cropped-lk21-1.png",
+    "iconUrl": "https://i.ibb.co.com/Jjzsxm9F/cropped-lk21-1.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 22088,
+    "fileSize": 24041,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "Filmkita",
     "description": "📺 Streaming Movie and TV Series",
@@ -30,14 +41,19 @@
     "name": "Filmkita"
   },
   {
-    "iconUrl": "https://tv1.filmlokal.me/wp-content/uploads/2022/01/cropped-02B03F76-64AE-4D9C-8DE7-C4EE4DC115B2.jpeg",
+    "iconUrl": "https://i.ibb.co.com/Cs2n4h1v/filmlokal.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 19786,
+    "fileSize": 20434,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "Filmlokal",
     "description": "📺 Streaming Movie and TV Series",
@@ -45,44 +61,19 @@
     "name": "Filmlokal"
   },
   {
-    "iconUrl": "https://fufafilm.com/wp-content/uploads/2025/11/cropped-Favicon.png",
+    "iconUrl": "https://i.ibb.co.com/6cCQ1h87/indomax.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 21388,
+    "fileSize": 20883,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
-    "version": 1,
-    "internalName": "Fufafilm",
-    "description": "📺 Streaming Movie and TV Series",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Fufafilm.cs3",
-    "name": "Fufafilm"
-  },
-  {
-    "iconUrl": "https://i.ibb.co.com/FqVy2Snb/appicon.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://raw.githubusercontent.com/Asm0d3usX",
-    "fileSize": 23485,
-    "status": 1,
-    "language": "id",
-    "authors": ["Hexated", "Asm0d3usX"],
-    "tvTypes": ["TvSeries", "Movie", "Anime", "AsianDrama"],
-    "version": 1,
-    "internalName": "Idlix",
-    "description": "📺 Streaming Movie and TV Series",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Idlix.cs3",
-    "name": "Idlix"
-  },
-  {
-    "iconUrl": "https://movie21.indomax21.org/wp-content/uploads/2024/10/cropped-indomax21-favicon-color-1.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://raw.githubusercontent.com/Asm0d3usX",
-    "fileSize": 20989,
-    "status": 1,
-    "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["TvSeries", "Movie", "Anime", "AsianDrama"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "Indomax",
     "description": "📺 Streaming Movie and TV Series",
@@ -90,14 +81,19 @@
     "name": "Indomax"
   },
   {
-    "iconUrl": "https://tv2.kawanfilm21.co/wp-content/uploads/2020/08/cropped-icon-baru-kawanfilm21-1-60x60.png",
+    "iconUrl": "https://i.ibb.co.com/KjQdk4YC/kawanfilm.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 26763,
+    "fileSize": 27616,
     "status": 1,
     "language": "id",
-    "authors": ["Duro92", "Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "Kawanfilm",
     "description": "📺 Streaming Movie and TV Series",
@@ -105,14 +101,19 @@
     "name": "Kawanfilm"
   },
   {
-    "iconUrl": "https://klikxxi.me/wp-content/uploads/2024/02/cropped-site-icon.png",
+    "iconUrl": "https://i.ibb.co.com/QF8w02RR/klikxxi.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 18960,
+    "fileSize": 20005,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "KlikXXi",
     "description": "📺 Streaming Movie and TV Series",
@@ -120,29 +121,19 @@
     "name": "KlikXXi"
   },
   {
-    "iconUrl": "https://assets.lk21.party/favicon.ico",
+    "iconUrl": "https://i.ibb.co.com/6RGz8QkY/layarwarna.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 19061,
+    "fileSize": 24214,
     "status": 1,
     "language": "id",
-    "authors": ["Hexated", "Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
-    "version": 1,
-    "internalName": "LayarKaca",
-    "description": "📺 Streaming Movie and TV Series",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/LayarKaca.cs3",
-    "name": "LayarKaca"
-  },
-  {
-    "iconUrl": "https://play5.layarwarna21.tv/wp-content/uploads/2023/06/cropped-FAV-ICON-2-60x60.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 23892,
-    "status": 1,
-    "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "LayarWarna",
     "description": "📺 Streaming Movie and TV Series",
@@ -153,11 +144,16 @@
     "iconUrl": "https://midasxxi.com/wp-content/uploads/2024/01/cropped-favicon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 21789,
+    "fileSize": 23444,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "MidasXXi",
     "description": "📺 Streaming Movie and TV Series",
@@ -168,26 +164,36 @@
     "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 74677,
+    "fileSize": 75157,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["TvSeries", "Movie", "Anime", "AsianDrama"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "Moviebox",
-    "description": "📺 Moviebox - Netnaija - Sflix",
+    "description": "📺 Streaming Movie and TV Series",
     "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Moviebox.cs3",
     "name": "Moviebox"
   },
   {
-    "iconUrl": "https://www.ngefilm21.pw/favicon.png",
+    "iconUrl": "https://i.ibb.co.com/3yVG0DbY/ngefilm.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 21685,
+    "fileSize": 21909,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "Ngefilm",
     "description": "📺 Streaming Movie and TV Series",
@@ -195,14 +201,19 @@
     "name": "Ngefilm"
   },
   {
-    "iconUrl": "https://iili.io/JGJa71a.png",
+    "iconUrl": "https://i.ibb.co.com/Z1YVFHNS/nomat.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 18685,
+    "fileSize": 19451,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "Nomat",
     "description": "📺 Streaming Movie and TV Series",
@@ -210,44 +221,20 @@
     "name": "Nomat"
   },
   {
-    "iconUrl": "https://nontonfilm.gratis/wp-content/uploads/2024/12/gratis-1.png",
+    "iconUrl": "https://i.ibb.co.com/Y7dqMBrr/pencurimovie.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 26685,
+    "fileSize": 16517,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
-    "version": 1,
-    "internalName": "Nontonfilm",
-    "description": "📺 Streaming Movie and TV Series",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Nontonfilm.cs3",
-    "name": "Nontonfilm"
-  },
-  {
-    "iconUrl": "https://backapi.oploverz.ac/uploads/settings/website/favicons/3161ce4d-ce90-4d07-b019-57bf64a9594e.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Asm0d3usX/AnimeX",
-    "fileSize": 25201,
-    "status": 1,
-    "language": "id",
-    "authors": ["Hexated", "Asm0d3usX"],
-    "tvTypes": ["AnimeMovie", "Anime", "OVA"],
-    "version": 1,
-    "internalName": "Oploverz",
-    "description": "🎭 Anime Subtitle Indonesia",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/AnimeX/builds/Oploverz.cs3",
-    "name": "Oploverz"
-  },
-  {
-    "iconUrl": "https://ww93.pencurimovie.bond/wp-content/uploads/fbrfg/apple-touch-icon.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 13087,
-    "status": 1,
-    "language": "id",
-    "authors": ["Phisher98", "Asm0d3usX"],
-    "tvTypes": ["Movie", "TvSeries"],
+    "authors": [
+	  "Phisher98",
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "Pencurimovie",
     "description": "📺 Streaming Movie and TV Series",
@@ -255,14 +242,19 @@
     "name": "Pencurimovie"
   },
   {
-    "iconUrl": "https://pusatfilm21.online/wp-content/uploads/2018/03/cropped-icon.png",
+    "iconUrl": "https://i.ibb.co.com/Ldm591kZ/pusatfilm.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 17060,
+    "fileSize": 18327,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "Pusatfilm",
     "description": "📺 Streaming Movie and TV Series",
@@ -270,14 +262,19 @@
     "name": "Pusatfilm"
   },
   {
-    "iconUrl": "https://eskipii.com/wp-content/uploads/2023/10/favicon.png",
+    "iconUrl": "https://i.ibb.co.com/qFdDYpcD/pusatmovie.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 21830,
+    "fileSize": 23941,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "Pusatmovie",
     "description": "📺 Streaming Movie and TV Series",
@@ -285,29 +282,19 @@
     "name": "Pusatmovie"
   },
   {
-    "iconUrl": "https://v1.samehadaku.how/wp-content/uploads/2020/04/cropped-download-1-32x32.jpg",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Asm0d3usX/AnimeX",
-    "fileSize": 17282,
-    "status": 1,
-    "language": "id",
-    "authors": ["Hexated", "Asm0d3usX"],
-    "tvTypes": ["AnimeMovie", "OVA", "Anime"],
-    "version": 1,
-    "internalName": "Samehadaku",
-    "description": "🎭 Anime Subtitle Indonesia",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/AnimeX/builds/Samehadaku.cs3",
-    "name": "Samehadaku"
-  },
-  {
-    "iconUrl": "https://sarangfilm.fit/wp-content/uploads/2023/09/cropped-popcorn-2.png",
+    "iconUrl": "https://i.ibb.co.com/bMKwcDtH/sarangfilm.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 26060,
+    "fileSize": 29763,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "Sarangfilm",
     "description": "📺 Streaming Movie and TV Series",
@@ -315,14 +302,19 @@
     "name": "Sarangfilm"
   },
   {
-    "iconUrl": "https://savefilm21.info/favicon.png",
+    "iconUrl": "https://i.ibb.co.com/HptN2Q7m/savefilm.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 21860,
+    "fileSize": 21933,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "Savefilm",
     "description": "📺 Streaming Movie and TV Series",
@@ -330,14 +322,19 @@
     "name": "Savefilm"
   },
   {
-    "iconUrl": "https://go1.wgfilm21.com/wp-content/uploads/2025/08/wgfilm21-fav-2-60x60.webp",
+    "iconUrl": "https://i.ibb.co.com/zHLLPyVd/wgfilm21.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 22081,
+    "fileSize": 24012,
     "status": 1,
     "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["Movie", "TvSeries"],
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 1,
     "internalName": "WGFilm21",
     "description": "📺 Streaming Movie and TV Series",
