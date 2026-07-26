@@ -242,26 +242,6 @@
     "name": "Pencurimovie"
   },
   {
-    "iconUrl": "https://i.ibb.co.com/Ldm591kZ/pusatfilm.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 18327,
-    "status": 1,
-    "language": "id",
-    "authors": [
-      "Asm0d3usX"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 1,
-    "internalName": "Pusatfilm",
-    "description": "📺 Streaming Movie and TV Series",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Pusatfilm.cs3",
-    "name": "Pusatfilm"
-  },
-  {
     "iconUrl": "https://i.ibb.co.com/qFdDYpcD/pusatmovie.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
