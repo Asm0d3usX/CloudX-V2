@@ -120,6 +120,27 @@
     "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/KlikXXi.cs3",
     "name": "KlikXXi"
   },
+	{
+    "iconUrl": "https://i.ibb.co.com/9HDVpFFT/layarkaca.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+    "fileSize": 51923,
+    "status": 1,
+    "language": "id",
+    "authors": [
+	  "Hexated",
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "LayarKaca",
+    "description": "📺 Streaming Movie and TV Series",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/LayarKaca.cs3",
+    "name": "LayarKaca"
+  },
   {
     "iconUrl": "https://i.ibb.co.com/6RGz8QkY/layarwarna.png",
     "apiVersion": 1,
