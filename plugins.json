@@ -61,6 +61,28 @@
     "name": "Filmlokal"
   },
   {
+    "iconUrl": "https://i.ibb.co.com/xtyf1WFY/idlix.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+    "fileSize": 51520,
+    "status": 1,
+    "language": "id",
+    "authors": [
+	  "Hexated",
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+	  "Anime"
+    ],
+    "version": 1,
+    "internalName": "Idlix",
+    "description": "📺 Streaming Movie and TV Series",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Idlix.cs3",
+    "name": "Idlix"
+  },
+  {
     "iconUrl": "https://i.ibb.co.com/6cCQ1h87/indomax.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
