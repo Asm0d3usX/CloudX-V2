@@ -143,6 +143,26 @@
     "name": "KlikXXi"
   },
   {
+    "iconUrl": "https://i.ibb.co.com/VcL6rmNf/layarasia.webp",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+    "fileSize": 37023,
+    "status": 1,
+    "language": "id",
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "LayarAsia",
+    "description": "📺 Streaming Movie and TV Series",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/LayarAsia.cs3",
+    "name": "LayarAsia"
+  },
+  {
     "iconUrl": "https://i.ibb.co.com/9HDVpFFT/layarkaca.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
