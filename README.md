@@ -17,6 +17,7 @@
 | <img src="https://i.ibb.co.com/xtyf1WFY/idlix.png" width="16"> Idlix | Indonesia | 🔥 Active |
 | <img src="https://i.ibb.co.com/KjQdk4YC/kawanfilm.png" width="16"> Kawanfilm | Indonesia | 🔥 Active |
 | <img src="https://i.ibb.co.com/QF8w02RR/klikxxi.png" width="16"> KlikXXi | Indonesia | 🔥 Active |
+| <img src="https://i.ibb.co.com/VcL6rmNf/layarasia.webp" width="16"> LayarAsia | Indonesia | 🔥 Active |
 | <img src="https://i.ibb.co.com/9HDVpFFT/layarkaca.png" width="16"> LayarKaca | Indonesia | 🔥 Active |
 | <img src="https://i.ibb.co.com/6RGz8QkY/layarwarna.png" width="16"> LayarWarna | Indonesia | 🔥 Active |
 | <img src="https://midasxxi.com/wp-content/uploads/2024/01/cropped-favicon.png" width="16"> MidasXXi | Indonesia | 🔥 Active |
