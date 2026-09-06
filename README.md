@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Donate Saweria](https://img.shields.io/badge/Donate-Saweria-orange?style=flat&logo=coffeescript&logoColor=white)](https://saweria.co/Asm0d3usX)
 
-**CloudX** adalah kumpulan repositori dari CloudStream untuk menonton film dengan subtitle Indonesia 🇮🇩  
+**CloudX** adalah kumpulan repositori dari CloudStream untuk menonton film dengan Subtitle Indonesia 🇮🇩  
 
 ---
 
