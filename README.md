@@ -20,7 +20,7 @@
 | <img src="https://i.ibb.co.com/QF8w02RR/klikxxi.png" width="16"> KlikXXi | Indonesia | 🔥 Active |
 | <img src="https://i.ibb.co.com/9HDVpFFT/layarkaca.png" width="16"> LayarKaca | Indonesia | 🔥 Active |
 | <img src="https://i.ibb.co.com/6RGz8QkY/layarwarna.png" width="16"> LayarWarna | Indonesia | 🔥 Active |
-| <img src="https://midasxxi.com/wp-content/uploads/2024/01/cropped-favicon.png" width="16"> MidasXXi | Indonesia | 🔥 Active |
+| <img src="https://midasxxi.com/wp-content/uploads/2024/01/cropped-favicon.png" width="16"> MidasXXi | Indonesia | ⛔ Deactived |
 | <img src="https://i.ibb.co.com/YFbP1FSr/icon.png" width="16"> Moviebox | Indonesia | 🔥 Active |
 | <img src="https://netnaija.film/favicon.ico" width="16"> Netnaija | Indonesia | 🔥 Active |
 | <img src="https://i.ibb.co.com/3yVG0DbY/ngefilm.png" width="16"> Ngefilm | Indonesia | 🔥 Active |
